@@ -186,6 +186,7 @@ ul.about-list li span{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #ffffff;
+	align: center;
 }
 #tf-team .overlay{
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
@@ -262,6 +263,7 @@ img.img-circle.team-img {
 	border-radius: 0;
 	background: #FFFFFF;
 	transition: all 0.5s;
+	align: center;
 }
 
 .owl-theme .owl-controls .owl-page.active span, 
